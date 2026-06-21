@@ -1,5 +1,4 @@
 # iskatelpi.github.io
-<!DOCTYPE html>
 <html>
 <head>
     <h1>ISKATEL P.I.</h1>
@@ -9,7 +8,9 @@
 <h1>Private Investigators</h1>
 
 <p>Private Investigators</p>
-    
+
+<img width="1131" height="798" alt="IMG_2673" src="https://github.com/user-attachments/assets/934620c6-111e-493c-bb16-457383906e89" />
+
 <h2>We Offer:</h2>
 <p>Public record searches, Social media searches, Company filing searches, Vehicle check searches, Property history searches, Online forums and blogs searches, News searches, Facial recognition reverse image searches, Domain lookups, Company review searches, Timeline reconstructions.</p>
     
