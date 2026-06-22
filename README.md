@@ -7,7 +7,7 @@
 <body>
 <h1>Private Investigators</h1>
 
-<p>CURRENTLY NOT OFFERING SERVICES</p>
+<p>CURRENTLY NOT OFFERING SERVICES.</p>
 
 <img width="1131" height="798" alt="IMG_2673" src="https://github.com/user-attachments/assets/934620c6-111e-493c-bb16-457383906e89" />
 
